@@ -6,14 +6,12 @@ This is Mira's contribution
 
 
 
-
-
-
-
-
 ```js
 function pickMe(name) {
     return `Pick ${name}'s snippet`;
 }
 pickMe("Ross");
 ```
+
+## ERIC WAS HERE
+
