@@ -15,4 +15,5 @@ This is Mira's contribution
 function pickMe(name) {
     return `Pick ${name}'s snippet`;
 }
+pickMe("Ross");
 ```
